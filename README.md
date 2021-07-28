@@ -7,13 +7,13 @@ Mudit Chand Narayan
 Prakhar Pratap Mall  
 Shivangi Singh
 Anmol 
-Afraz  
+Afraz Jamal 
 **Design Document**: https://docs.google.com/document/d/1mvRKSrKFR_eRiB6DzdH-8M6EAdGLNWAIDZBfni2RSYs/edit#heading=h.uqlm0f6iuvgm
 
 **Build of Final Game** : https://drive.google.com/drive/folders/1VyxOFBoQ-cRB2KVRJ1syruHLioJbp5aD?usp=sharing
 
-_**Work Done By Me**: Programming and implemenatation of Features (Almost all programming except Health Bar and Menu UI scripts) , Overall Game Design and implementation, Managing Team_
+**Gameplay Videos** https://drive.google.com/drive/folders/1uun5tJtJ5c_lbk9M30YSdTWT24zWNRaK?usp=sharing
 
-**Video of 1st Week Submission**: https://drive.google.com/file/d/1bzLICXzTFc2ztuLpDnJqoiR-f7Ph6DBc/view?usp=sharing
+_**Work Done By Me**: I worked as a programmer for my team and mainly worked on adding sound to all parts of the game and writing their scripts.I also collaborated with the ideas wherever required and management.
 
-**Github Link of 1st Week Submission** : https://github.com/server-crash/evaluation-1
+**Video of 1st Week Submission and files**:https://drive.google.com/folderview?id=1Y2hcRS3tIoMPUULFegTXWw2h0VGfEjSt
